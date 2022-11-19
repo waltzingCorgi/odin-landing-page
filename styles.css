@@ -18,6 +18,16 @@ p.quote-attribution {
     margin: 0;
 }
 
+button {
+    color: white;
+    background-color: #3882F6;
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+}
+
 .footer {
     background-color: #1F2937;
 }
@@ -28,6 +38,19 @@ p.quote-attribution {
     
 }
 
+.action {
+    padding: 100px 400px;
+}
+
+.action-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 150px;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: white;
+}
 .footer {
     display: flex;
     justify-content: center;
