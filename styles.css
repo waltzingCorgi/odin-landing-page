@@ -3,8 +3,29 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+blockquote {
+    font-family:'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    margin: 0;
+}
+
+p.quote-attribution {
+    font-weight: bold;
+    text-align: right;
+    margin: 0;
+}
+
 .footer {
     background-color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 125px 550px;
+    
 }
 
 .footer {
